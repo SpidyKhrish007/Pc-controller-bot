@@ -1,3 +1,3 @@
-bot_settings = {'token': '_'}
+bot_settings = {'token': '6492737948:AAFOTDjxkx7e0lhvHf7JMBz-EjcIQstn1tA'}
 
-tg_id = 742333517
+tg_id = 1867884587
